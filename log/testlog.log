@@ -1,0 +1,191 @@
+2018-03-29 09:55:57,628 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-03-29 09:56:05,103 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-03-29 09:56:16,355 - com.vocalink.pages.FindOwner -INFO - Data added into owner form
+2018-03-29 09:56:16,964 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-03-29 09:56:19,284 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 13:01:46,459 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 13:02:05,127 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:02:13,268 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:02:24,469 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 13:02:30,241 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-03 13:02:32,485 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-03 13:02:34,766 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 13:02:37,012 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 13:02:39,217 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 13:02:51,979 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:02:56,477 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 13:03:07,269 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 13:27:25,653 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 13:27:53,736 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:27:59,926 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:28:07,223 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 13:28:12,620 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-03 13:28:14,866 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-03 13:28:17,180 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 13:28:19,409 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 13:28:21,629 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 13:28:29,764 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:28:34,282 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 13:28:42,354 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:28:42,834 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:28:48,200 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBoxLastName4213
+2018-09-03 13:28:54,930 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:28:59,156 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:29:03,732 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 13:32:42,774 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 13:33:04,390 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:33:06,405 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:33:12,168 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 13:33:18,217 - com.vocalink.pages.FindOwner -INFO - Owner first name entered is:  FirstName4539
+2018-09-03 13:33:20,471 - com.vocalink.pages.FindOwner -INFO - Owner last name entered is:  LastName7506
+2018-09-03 13:33:22,768 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 13:33:24,998 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 13:33:27,244 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 13:33:31,395 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:33:35,798 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 13:33:43,861 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:33:44,232 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:33:49,595 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox is:   LastName7506
+2018-09-03 13:33:56,224 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:34:00,484 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:34:06,079 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 13:43:42,620 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 13:43:50,849 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:43:51,304 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:43:57,580 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 13:44:02,950 - com.vocalink.pages.FindOwner -INFO - Owner first name entered is:  FirstName3054
+2018-09-03 13:44:05,138 - com.vocalink.pages.FindOwner -INFO - Owner last name entered is:  LastName6009
+2018-09-03 13:44:07,375 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 13:44:09,525 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 13:44:11,733 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 13:44:15,557 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:44:19,904 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 13:44:27,924 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:44:28,303 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:44:33,547 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox is:   LastName6009
+2018-09-03 13:44:39,050 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:44:43,238 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:44:47,789 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 13:50:17,846 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 13:50:24,555 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:50:26,503 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:50:32,259 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 13:50:38,412 - com.vocalink.pages.FindOwner -INFO - Owner first name entered is:  FirstName7288
+2018-09-03 13:50:40,641 - com.vocalink.pages.FindOwner -INFO - Owner last name entered is:  LastName1181
+2018-09-03 13:50:43,224 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 13:50:45,383 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 13:50:47,582 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 13:50:53,533 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:50:57,937 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 13:51:05,960 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:51:06,321 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:51:11,725 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox is:   LastName1181
+2018-09-03 13:51:17,387 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:51:21,523 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-03 13:51:27,359 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 13:57:17,562 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 13:57:25,668 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:57:26,022 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:57:31,593 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 13:57:36,865 - com.vocalink.pages.FindOwner -INFO - Owner first name entered is:  FirstName5353
+2018-09-03 13:57:39,055 - com.vocalink.pages.FindOwner -INFO - Owner last name entered is:  LastName7911
+2018-09-03 13:57:41,293 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 13:57:43,501 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 13:57:45,671 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 13:57:49,467 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:57:53,788 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 13:58:01,806 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 13:58:02,137 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 13:58:07,451 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox is:   LastName7911
+2018-09-03 13:58:13,107 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 13:58:17,248 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-03 13:58:17,250 - com.vocalink.pages.FindOwner -INFO - User details are found
+2018-09-03 13:58:22,074 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 14:00:51,461 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 14:00:59,626 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 14:01:00,033 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:01:05,541 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 14:01:10,825 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-03 14:01:13,029 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-03 14:01:15,290 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 14:01:17,471 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 14:01:19,635 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 14:01:23,485 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:01:27,919 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 14:01:35,942 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 14:01:36,331 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:01:41,594 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox
+2018-09-03 14:01:46,909 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:01:51,092 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-03 14:01:51,094 - com.vocalink.pages.FindOwner -INFO - User details are found
+2018-09-03 14:01:55,581 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 14:04:07,480 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 14:04:14,278 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 14:04:14,741 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:04:20,096 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 14:04:25,344 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-03 14:04:27,537 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-03 14:04:29,776 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 14:04:31,937 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 14:04:34,121 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 14:04:37,957 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:04:42,280 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 14:04:50,610 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:04:55,859 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox
+2018-09-03 14:05:01,344 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:05:05,459 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-03 14:05:05,459 - com.vocalink.pages.FindOwner -INFO - User details are found
+2018-09-03 14:05:08,863 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 14:13:29,959 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 14:13:36,750 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 14:13:37,137 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:13:43,324 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 14:13:48,665 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-03 14:13:51,013 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-03 14:13:53,597 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 14:13:55,882 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 14:13:58,176 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 14:14:01,804 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:14:06,230 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 14:14:14,721 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:14:20,053 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox
+2018-09-03 14:14:25,728 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:14:29,909 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-03 14:14:29,909 - com.vocalink.pages.FindOwner -INFO - User details are found
+2018-09-03 14:14:33,293 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-03 14:23:14,665 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-03 14:23:20,376 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-03 14:23:20,744 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:23:26,356 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-03 14:23:31,695 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-03 14:23:33,981 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-03 14:23:36,280 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-03 14:23:38,569 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-03 14:23:40,882 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-03 14:23:44,593 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:23:48,913 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-03 14:23:57,341 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-03 14:24:02,680 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox
+2018-09-03 14:24:08,252 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-03 14:24:12,468 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-03 14:24:12,468 - com.vocalink.pages.FindOwner -INFO - User details are found
+2018-09-03 14:24:15,765 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed
+2018-09-10 17:28:55,532 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-10 17:29:10,442 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-10 17:34:58,927 - com.owner.FindOwnerSuiteTest -INFO - Browser has been launched
+2018-09-10 17:35:16,122 - com.vocalink.pages.FindOwner -INFO - Started data adding into owner form
+2018-09-10 17:35:17,792 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-10 17:35:23,424 - com.vocalink.pages.FindOwner -INFO - Clicked on Add Owner Button
+2018-09-10 17:35:29,251 - com.vocalink.pages.FindOwner -INFO - Owner first name entered
+2018-09-10 17:35:31,599 - com.vocalink.pages.FindOwner -INFO - Owner last name entered
+2018-09-10 17:35:34,353 - com.vocalink.pages.FindOwner -INFO - Entered owner address
+2018-09-10 17:35:36,707 - com.vocalink.pages.FindOwner -INFO - Entered owner city
+2018-09-10 17:35:38,930 - com.vocalink.pages.FindOwner -INFO - Entered telephone number
+2018-09-10 17:35:43,412 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-10 17:35:48,476 - com.vocalink.pages.FindOwner -INFO - Navigated to Home page
+2018-09-10 17:35:56,831 - com.vocalink.pages.FindOwner -INFO - Clicked on Find Owner menu
+2018-09-10 17:36:02,143 - com.vocalink.pages.FindOwner -INFO - Entered LastName into searchBox
+2018-09-10 17:36:07,726 - com.vocalink.pages.FindOwner -INFO - Clicked on submit button
+2018-09-10 17:36:11,929 - com.vocalink.pages.FindOwner -INFO - Verifying user details
+2018-09-10 17:36:11,930 - com.vocalink.pages.FindOwner -INFO - User details are found
+2018-09-10 17:36:17,488 - com.owner.FindOwnerSuiteTest -INFO - Browser is closed

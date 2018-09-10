@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ownersuite">
+	<parameter name="sBrowser" value="Chrome"></parameter>
+	<test name="ownersuite">
+		<classes>
+			<class name="com.owner.FindOwnerSuiteTest" />
+			<class name="com.owner.FindOwnerTest" />
+		</classes>
+	</test>
+</suite>
