@@ -1,4 +1,5 @@
 com\vocalink\pages\FindOwner.class
+com\vocalink\utility\JavaNetURLExample.class
+com\vocalink\utility\UIdata.class
 com\vocalink\utility\ExtentReporterNG.class
 com\vocalink\utility\PropertyFile.class
-com\vocalink\utility\UIdata.class

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="ownersuite">
-	<parameter name="sBrowser" value="Chrome"></parameter>
+	<parameter name="sBrowser" value="chrome"></parameter>
 	<test name="ownersuite">
 		<classes>
 			<class name="com.owner.FindOwnerSuiteTest" />

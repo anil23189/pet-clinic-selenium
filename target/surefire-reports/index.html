@@ -48,7 +48,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-ownersuite">
-                    <span>D:\Partha_Nath\Workspace\spring-pet-clinic-selenium\src\test\resources\SpringSuite.xml</span>
+                    <span>C:\Users\Administrator\git\pet-clinic-selenium\src\test\resources\SpringSuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -148,14 +148,19 @@
         </div> <!-- panel SmokeSuite -->
         <div panel-name="test-xml-ownersuite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">D:\Partha_Nath\Workspace\spring-pet-clinic-selenium\src\test\resources\SpringSuite.xml</span>
+            <span class="header-content">C:\Users\Administrator\git\pet-clinic-selenium\src\test\resources\SpringSuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite verbose=&quot;0&quot; name=&quot;ownersuite&quot;&gt;
-  &lt;parameter name=&quot;sBrowser&quot; value=&quot;Chrome&quot;/&gt;
+  &lt;parameter name=&quot;sBrowser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;org.uncommons.reportng.HTMLReporter&quot;/&gt;
+    &lt;listener class-name=&quot;org.uncommons.reportng.JUnitXMLReporter&quot;/&gt;
+    &lt;listener class-name=&quot;com.vocalink.utility.ExtentReporterNG&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test name=&quot;ownersuite&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.owner.FindOwnerSuiteTest&quot;/&gt;
@@ -168,7 +173,7 @@
         </div> <!-- panel -->
         <div panel-name="test-xml-SmokeSuite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">D:\Partha_Nath\Workspace\spring-pet-clinic-selenium\src\test\resources\SmokeSuite.xml</span>
+            <span class="header-content">C:\Users\Administrator\git\pet-clinic-selenium\src\test\resources\SmokeSuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -240,16 +245,16 @@ data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'AddOwner')
 data.setCell(0, 2, 'com.owner.FindOwnerTest')
-data.setCell(0, 3, 40379);
+data.setCell(0, 3, 35081);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'SearchOwner')
 data.setCell(1, 2, 'com.owner.FindOwnerTest')
-data.setCell(1, 3, 19432);
+data.setCell(1, 3, 18902);
 window.suiteTableData['ownersuite']= { tableData: data, tableDiv: 'times-div-ownersuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 59 seconds</span>
+              <span class="suite-total-time">Total running time: 53 seconds</span>
               <div id="times-div-ownersuite">
               </div> <!-- times-div-ownersuite -->
             </div> <!-- times-div -->
@@ -315,7 +320,7 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">com.owner.FindOwnerSuiteTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
-                <span class="method-name">init(Chrome)</span>
+                <span class="method-name">init(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
             </div> <!-- chronological-class -->
@@ -323,18 +328,18 @@ return data;
               <div class="chronological-class-name">com.owner.FindOwnerTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">AddOwner</span>
-                <span class="method-start">46142 ms</span>
+                <span class="method-start">4348 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">SearchOwner</span>
-                <span class="method-start">86523 ms</span>
+                <span class="method-start">39430 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.owner.FindOwnerSuiteTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">killBrowser</span>
-                <span class="method-start">106194 ms</span>
+                <span class="method-start">58345 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
@@ -346,7 +351,7 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">com.owner.FindOwnerSuiteTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
-                <span class="method-name">init(Chrome)</span>
+                <span class="method-name">init(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
             </div> <!-- chronological-class -->
@@ -354,18 +359,18 @@ return data;
               <div class="chronological-class-name">com.owner.FindOwnerTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">AddOwner</span>
-                <span class="method-start">46142 ms</span>
+                <span class="method-start">4348 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">SearchOwner</span>
-                <span class="method-start">86523 ms</span>
+                <span class="method-start">39430 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.owner.FindOwnerSuiteTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">killBrowser</span>
-                <span class="method-start">106194 ms</span>
+                <span class="method-start">58345 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
