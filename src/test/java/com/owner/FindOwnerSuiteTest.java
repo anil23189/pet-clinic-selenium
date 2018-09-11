@@ -46,7 +46,9 @@ public class FindOwnerSuiteTest {
 				
 				}else if(sBrowser.equalsIgnoreCase("Chrome"))
 				{
-					System.setProperty("webdriver.chrome.driver",UIdata.startuppath+"\\BrowseDrivers\\chromedriver.exe" );
+					//System.setProperty("webdriver.chrome.driver",UIdata.startuppath+"\\BrowseDrivers\\chromedriver.exe" );z
+					System.setProperty("webdriver.chrome.driver",
+				            "/usr/bin/chromedriver");
 					driver=new ChromeDriver();
 					
 					/*DesiredCapabilities capabilities = DesiredCapabilities.chrome();
