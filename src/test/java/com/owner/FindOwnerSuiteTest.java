@@ -13,7 +13,7 @@ import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.ITestResult;
@@ -49,7 +49,10 @@ public class FindOwnerSuiteTest {
 					//System.setProperty("webdriver.chrome.driver",UIdata.startuppath+"\\BrowseDrivers\\chromedriver.exe" );z
 					System.setProperty("webdriver.chrome.driver",
 				            "/usr/bin/chromedriver");
-					driver=new ChromeDriver();
+					ChromeOptions options = new ChromeOptions();
+			        options.addArguments("--no-sandbox");
+			        options.addArguments("--disable-dev-shm-usage");
+					driver=new ChromeDriver(options);
 					
 					/*DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 					capabilities.setPlatform(Platform.LINUX);
