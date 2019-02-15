@@ -43,7 +43,7 @@ public class FindOwnerSuiteTest {
 					DesiredCapabilities capabilities = DesiredCapabilities.firefox();
 					capabilities.setPlatform(Platform.WIN10);
 					//driver = new RemoteWebDriver(new URL("http://192.168.46.20/wd/hub"), capabilities);
-					driver = new RemoteWebDriver(new URL("http://192.168.46.78:5454/wd/hub"), capabilities);
+					driver = new RemoteWebDriver(new URL("http://192.168.46.74:5454/wd/hub"), capabilities);
 				
 				}else if(sBrowser.equalsIgnoreCase("Chrome"))
 				{
@@ -60,7 +60,7 @@ public class FindOwnerSuiteTest {
 					DesiredCapabilities cap = DesiredCapabilities.chrome();
 					cap = DesiredCapabilities.chrome();
 					cap.setPlatform(org.openqa.selenium.Platform.WINDOWS);
-					driver = new RemoteWebDriver(new URL("http://192.168.46.78:5454/wd/hub"),cap);
+					driver = new RemoteWebDriver(new URL("http://192.168.46.74:5454/wd/hub"),cap);
 					
 					
 					
